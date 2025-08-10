@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Point Consulting (Web demo)",
+  "description": "A single-page application for Dynamic Point Consulting, showcasing their financial advisory services, value framework, and client focus. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
